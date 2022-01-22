@@ -1,0 +1,22 @@
+public class SoalUAS4 {
+public static void main(String[] args) {
+int n = 5;
+for (i = 0; i < 5; i++) {
+if (i >= 3) {
+break;
+}
+System.out.println(i);
+}
+System.out.println("soal");
+
+int i, j;
+for (i = 0; i < i; i++) {
+if (i >= 3) {
+break;
+}
+System.out.println(i);
+}
+System.out.println("Yuhu");
+
+}
+}
